@@ -15,7 +15,7 @@ export class RecipeService {
     ),
     new Recipe(
       'Another Test Recipe',
-      'This is a test text.',
+      'This is a another test text.',
       'https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/2022-05/Tomato-Pie_0256.jpg?itok=c63mh-z9',
       [new Ingredient('Buns', 2), new Ingredient('Meat', 1)]
     ),
