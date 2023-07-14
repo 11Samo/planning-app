@@ -10,6 +10,5 @@ import { FormsModule } from '@angular/forms';
 @NgModule({
   declarations: [ShoppingListComponent, ShoppingEditComponent],
   imports: [RouterModule, CommonModule, FormsModule, ShoppingListRouterModule],
-  exports: [ShoppingListComponent, ShoppingEditComponent],
 })
 export class ShoppingListModule {}
